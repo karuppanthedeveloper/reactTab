@@ -1,14 +1,13 @@
 {
-  "main.css": "/reactTab/static/css/main.90bf6f03.chunk.css",
-  "main.js": "/reactTab/static/js/main.db8f6a79.chunk.js",
-  "main.js.map": "/reactTab/static/js/main.db8f6a79.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/reactTab/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/reactTab/static/js/1.2dd891c4.chunk.js.map",
+  "main.css": "/reactTab/static/css/main.7e25095a.chunk.css",
+  "main.js": "/reactTab/static/js/main.be50ce9d.chunk.js",
+  "main.js.map": "/reactTab/static/js/main.be50ce9d.chunk.js.map",
+  "static/js/1.0cd6058f.chunk.js": "/reactTab/static/js/1.0cd6058f.chunk.js",
+  "static/js/1.0cd6058f.chunk.js.map": "/reactTab/static/js/1.0cd6058f.chunk.js.map",
   "runtime~main.js": "/reactTab/static/js/runtime~main.f88cd1c8.js",
   "runtime~main.js.map": "/reactTab/static/js/runtime~main.f88cd1c8.js.map",
-  "static/media/logo.svg": "/reactTab/static/media/logo.5d5d9eef.svg",
-  "static/css/main.90bf6f03.chunk.css.map": "/reactTab/static/css/main.90bf6f03.chunk.css.map",
+  "static/css/main.7e25095a.chunk.css.map": "/reactTab/static/css/main.7e25095a.chunk.css.map",
   "index.html": "/reactTab/index.html",
-  "precache-manifest.b91d9b4abc74ef40d1497eca548ddfbe.js": "/reactTab/precache-manifest.b91d9b4abc74ef40d1497eca548ddfbe.js",
+  "precache-manifest.8676fd70c2ac3891043a9da243a0b4dd.js": "/reactTab/precache-manifest.8676fd70c2ac3891043a9da243a0b4dd.js",
   "service-worker.js": "/reactTab/service-worker.js"
 }
